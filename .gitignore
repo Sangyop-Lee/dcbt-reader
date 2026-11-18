@@ -1,0 +1,15 @@
+# The repository holds the app's source and instructions only.
+# Texts, dictionaries, the language model and rare-character files are
+# downloaded by each user (see README.md), and are not redistributed here.
+.DS_Store
+/DCBT Reader.app/
+/Source texts/*
+!/Source texts/.gitkeep
+/Dictionaries/*
+!/Dictionaries/README.md
+/Language model/*
+!/Language model/README.md
+/Gaiji/*
+!/Gaiji/README.md
+/SLR files/*
+!/SLR files/README.md
